@@ -1,0 +1,4 @@
+Compile and run with any conformant Java6 or Java7 environment.
+This should also work with Java8, but this has not been tested.
+
+To run unit tests, edit the file locations in TPuzzle01.java.
